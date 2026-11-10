@@ -5,7 +5,7 @@
 </div>
 
 
-I’m currently pursuing a Master’s in Information Technology at VSB – Technical University of Ostrava, with hands-on experience in Cloud Consulting, Linux Administration, and Frontend Development.<br>I’m passionate about building scalable web applications and exploring AI-driven solutions that bridge the gap between machine learning and modern software engineering.<br><br>🤖 Developing AI-powered web applications using Next.js, Python, and PyTorch<br>💬 Building a Chatbot using Mistral AI API, deployed on Vercel with a modern Next.js + Tailwind CSS stack
+<br>I’m passionate about building scalable web applications and exploring AI-driven solutions that bridge the gap between machine learning and modern software engineering.<br><br>🤖 Developing AI-powered web applications using Next.js, Python, and PyTorch<br>💬 Building a Chatbot using Mistral AI API, deployed on Vercel with a modern Next.js + Tailwind CSS stack
 
 
 ## 🌐 Socials: 
